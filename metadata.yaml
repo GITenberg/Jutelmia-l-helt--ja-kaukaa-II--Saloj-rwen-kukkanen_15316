@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5858
     wikipedia: http://fi.wikipedia.org/wiki/Pietari_Hannikainen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15316#Jutelmia-l-helt--ja-kaukaa-II--Saloj-rwen-kukkanen
 gutenberg_issued: '2005-03-10'
 gutenberg_type: Text
 identifiers:
